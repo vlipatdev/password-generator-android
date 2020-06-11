@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Générateur de mot de passe</string>
+    <string name="password_copied">Mot de passe copié dans le presse-papiers</string>
+</resources>

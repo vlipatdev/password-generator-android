@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="characters" translatable="false">characters</string>
+    <string name="uppercase" translatable="false">ABC</string>
+    <string name="lowercase" translatable="false">abc</string>
+    <string name="number" translatable="false">123</string>
+    <string name="symbol" translatable="false">!@#</string>
+    <string name="password_copied">Password copied to clipboard</string>
+</resources>

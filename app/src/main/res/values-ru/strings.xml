@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Генератор паролей</string>
+    <string name="password_copied">Пароль скопирован в буфер обмена</string>
+</resources>
